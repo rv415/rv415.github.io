@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alexandre Felix</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Alexandre Felix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2023 Alexandre Felix</copyright>
+    <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crescimento e queda</title>
+      <link>/posts/firstpost/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/firstpost/</guid>
+      <description>Para acessar a fonte dessa análise veja o projeto no GitHub rv415/mal_projectEsse é um projeto para analisar os dados do myanimelistJupyter Notebook 00Panorama # Nos últimos anos o público de animes tem expandido de forma bastante acelarada.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/firstpost/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
